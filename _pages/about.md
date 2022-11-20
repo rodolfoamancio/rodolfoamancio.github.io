@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Data scientist @ Alber Einstein Isaelite Hospital
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: rodolfo_amancio.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Campinas, São Paulo</p>
+    <p>Brazil</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, my name is Rodolfo Amancio. I am a data scientist. I am passionate about studying, researching and teaching.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My formal education started with a bachelor's degree in Chemical Engineering (Unicamp, 2018). After that, I have completed a post-graduate course on Complex data minning (Unicamp, 2020) and I am currently at the ending of my Master's degree in Monte Carlo Simulations and Statistical mechanics (Unicamp, ongoing).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+After I have finished my undergraduate course, I have worked in the industry for a few years. Initially, I worked as a Process optimization specialist at I.Systems (2018 - 2021), using machine learning and fuzzy logic to develop advanced process control's solutions, in order to improve industrial's processes efficiency. At the same company, I have shifted my career towards data science, working in the Artificial Intelligence research team with focus on suplly chain challenges, mainly demand forecast (2021), with experience in time series modelling and forecast.
+
+Ever since the ending of 2021, I am working as a Data scientist at Albert Einstein Israelite Hospital, at the Population health team. Our goal, is to improve decision-making in companies focused on the three pillars of the triple aim: reducing per-capita spending, improving population health and care experience.
+
+I have always loved to study and do research, and have focused my career towards that path. During this time, I have learned a great deal from academic and marked experiences. Besides that, I also love to teach and discuss, in this portfolio, I hope to share my analysis, reflections, teachings and speakings I have done and contribute to the discussion and development along the fields of data science.
+
+My main technical interests are: statistics, probability, machine learning and causal inference. On a side note, I am also very interested in economics and physics. And finally, my hobbies are mainly: cinema (<del>cinephile in recovery</del>), literature, music and occasionally video-games (<del>even though, there are some spider webs on it</del>).
