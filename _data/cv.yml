@@ -86,11 +86,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Data science
-      items: 
-        - Machine learning
-        - Causal inference
-    - title: Teaching
+    - title: Probability 
+    - title: Statistics
+    - title: Machine learning
+    - title: Causal inference
 
 
 - title: Other Interests
